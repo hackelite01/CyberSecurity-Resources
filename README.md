@@ -58,6 +58,7 @@ We are constantly adding new resources to this repository. If you find a resourc
 
 ## Web Application Security:
 - [OWASP ZAP (Zed Attack Proxy)](https://www.zaproxy.org/)
+- [Burp Suite](https://portswigger.net/burp)
 - [Skipfish](https://code.google.com/archive/p/skipfish/)
 - [Sqlmap](http://sqlmap.org/)
 - [WebScarab](https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project)
@@ -226,6 +227,9 @@ We are constantly adding new resources to this repository. If you find a resourc
 - [Secureworks Blog](https://www.secureworks.com/blog)
 - [Fortinet Blog](https://www.fortinet.com/blog)
 - [SANS Internet Storm Center Diary](https://isc.sans.edu/diary.html)
+- [Github Security Blog](https://github.blog/security/)
+- [Google Security Engineering Blog](https://bughunters.google.com/blog)
+- [Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/)
 
 ## Podcasts:
 - [The CyberWire Podcast](https://www.thecyberwire.com/podcasts/)
